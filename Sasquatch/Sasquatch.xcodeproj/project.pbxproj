@@ -1720,7 +1720,7 @@
 					};
 					84226C7F1E8908C900798417 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
@@ -1777,12 +1777,12 @@
 					};
 					D31EF9531E9517C500450162 = {
 						CreatedOnToolsVersion = 8.3;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Automatic;
 					};
 					D31EF95F1E9517C600450162 = {
 						CreatedOnToolsVersion = 8.3;
-						DevelopmentTeam = 5Z97G9NZQ6;
+						DevelopmentTeam = 285W24646W;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.Push = {
@@ -1797,6 +1797,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 				cs,
@@ -2819,9 +2820,9 @@
 				CODE_SIGN_ENTITLEMENTS = SasquatchSwift/SasquatchSwift.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 285W24646W;
 				INFOPLIST_FILE = SasquatchSwift/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.appcenter.sasquatchswift;
+				PRODUCT_BUNDLE_IDENTIFIER = com.akvelon.vaagnavanesyan.appcenter.sampleapp1;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
@@ -2832,9 +2833,9 @@
 				CODE_SIGN_ENTITLEMENTS = SasquatchSwift/SasquatchSwift.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 285W24646W;
 				INFOPLIST_FILE = SasquatchSwift/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.appcenter.sasquatchswift;
+				PRODUCT_BUNDLE_IDENTIFIER = com.akvelon.vaagnavanesyan.appcenter.sampleapp1;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
@@ -2988,8 +2989,9 @@
 			baseConfigurationReference = F849248A2112FA3400E14DBE /* Watch Extension.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "SasquatchWatchSwift Extension.entitlements";
+				DEVELOPMENT_TEAM = 285W24646W;
 				INFOPLIST_FILE = "SasquatchWatchSwift Extension/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.appcenter.sasquatchswift.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.akvelon.vaagnavanesyan.appcenter.sampleapp1.watchkitapp.watchkitextension;
 			};
 			name = Debug;
 		};
@@ -2998,8 +3000,9 @@
 			baseConfigurationReference = F849248A2112FA3400E14DBE /* Watch Extension.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "SasquatchWatchSwift Extension.entitlements";
+				DEVELOPMENT_TEAM = 285W24646W;
 				INFOPLIST_FILE = "SasquatchWatchSwift Extension/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.appcenter.sasquatchswift.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = com.akvelon.vaagnavanesyan.appcenter.sampleapp1.watchkitapp.watchkitextension;
 			};
 			name = Release;
 		};
@@ -3007,9 +3010,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F84924542111C83000E14DBE /* Watch.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 285W24646W;
 				IBSC_MODULE = SasquatchWatchSwift_Extension;
 				INFOPLIST_FILE = SasquatchWatchSwift/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.appcenter.sasquatchswift.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.akvelon.vaagnavanesyan.appcenter.sampleapp1.watchkitapp;
 			};
 			name = Debug;
 		};
@@ -3017,9 +3021,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F84924542111C83000E14DBE /* Watch.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 285W24646W;
 				IBSC_MODULE = SasquatchWatchSwift_Extension;
 				INFOPLIST_FILE = SasquatchWatchSwift/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.appcenter.sasquatchswift.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.akvelon.vaagnavanesyan.appcenter.sampleapp1.watchkitapp;
 			};
 			name = Release;
 		};
