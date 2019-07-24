@@ -29,7 +29,7 @@
 			<string>com.akvelon.vaagnavanesyan.appcenter.sampleapp1</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>appcenter-ff1762b5-7d3d-45b2-bd46-09278deba03d</string>
+				<string>appcenter-6c545e54-af44-471e-9005-f436cb57bbb1</string>
 			</array>
 		</dict>
 		<dict>
@@ -39,7 +39,7 @@
 			<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>msalff1762b5-7d3d-45b2-bd46-09278deba03d</string>
+				<string>msal6c545e54-af44-471e-9005-f436cb57bbb1</string>
 			</array>
 		</dict>
 	</array>

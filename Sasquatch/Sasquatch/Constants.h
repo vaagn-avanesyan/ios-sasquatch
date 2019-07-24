@@ -33,7 +33,7 @@ static NSString *const kMSObjCRuntimeTargetToken = @"1aa046cfdc8f49bdbd64190290c
 
 static NSString *const kMSPuppetAppSecret = @"65dc3680-7325-4000-a0e7-dbd2276eafd1";
 static NSString *const kMSObjcAppSecret = @"3ccfe7f5-ec01-4de5-883c-f563bbbe147a";
-static NSString *const kMSSwiftAppSecret = @"ff1762b5-7d3d-45b2-bd46-09278deba03d";
+static NSString *const kMSSwiftAppSecret = @"6c545e54-af44-471e-9005-f436cb57bbb1";
 static NSString *const kMSStartTargetKey = @"startTarget";
 static NSString *const kMSStorageMaxSizeKey = @"storageMaxSize";
 static NSNotificationName const kUpdateAnalyticsResultNotification = @"updateAnalyticsResult";
